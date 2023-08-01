@@ -1,37 +1,24 @@
-# [top](@) test_public
+# Heading words
+
+[foo]: <http://www.cnn.com> "CNN"
+
+# [Heading with inline anchor]: <top2>
 
 some words
-
+some words
+some words
+some words
+some words
+some words
+some words
+some words
+some words
+some words
+some words
 some words
 
-some words
+[foo]
 
-some words
+[top2](#top2)
 
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-some words
-
-[top]
+[link to Heading words](#heading-words) An auto-generated anchor converts "Heading words" to "heading-words" (lower case and spaces replaced by dash).
